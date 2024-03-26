@@ -72,7 +72,7 @@ languages:
           url: /guestbook
           weight: 4
         - name: Dashboard
-          url: https://xxx
+          url: https://umami-n2nso7ls4-alanlu88s-projects.vercel.app/share/dVVaBCZocjgE2dnk/klsyinghua.github
           weight: 5
   zh:
     languageName: 中
