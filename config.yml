@@ -37,7 +37,7 @@ params:
       issueTerm: pathname
   analytics:
     google:
-      SiteVerificationTag: ""
+      SiteVerificationTag: "eaKhuQAsUtnD4IoehZOV7PnNhwJOu2j3RT4rBAEhl7Y"
     umami:
       enable: true
       website_id: "247cec91-da71-4cbc-9ca4-265e235c788b"
