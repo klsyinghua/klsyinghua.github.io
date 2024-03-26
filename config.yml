@@ -97,7 +97,7 @@ languages:
           url: /guestbook
           weight: 4
         - name: 网站统计
-          url: https://xxx
+          url: https://umami-n2nso7ls4-alanlu88s-projects.vercel.app/share/dVVaBCZocjgE2dnk/klsyinghua.github.io
           weight: 5
 taxonomies:
   series: series
