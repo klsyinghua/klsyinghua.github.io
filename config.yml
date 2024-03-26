@@ -6,7 +6,7 @@ licenselink: "https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICE
 description: "A fast, clean Hugo theme"
 homepage: "https://klsyinghua.github.io"
 defaultContentLanguage: "en"
-googleAnalytics: G-B8QT7TVK45
+googleAnalytics: ""
 paginate: 10
 params:
   brand: HOME
@@ -72,7 +72,7 @@ languages:
           url: /guestbook
           weight: 4
         - name: Dashboard
-          url: https://umami-n2nso7ls4-alanlu88s-projects.vercel.app/share/dVVaBCZocjgE2dnk/klsyinghua.github
+          url: "https://umami-n2nso7ls4-alanlu88s-projects.vercel.app/share/dVVaBCZocjgE2dnk/klsyinghua.github"
           weight: 5
   zh:
     languageName: 中
@@ -97,7 +97,7 @@ languages:
           url: /guestbook
           weight: 4
         - name: 网站统计
-          url: https://umami-n2nso7ls4-alanlu88s-projects.vercel.app/share/dVVaBCZocjgE2dnk/klsyinghua.github.io
+          url: "https://umami-n2nso7ls4-alanlu88s-projects.vercel.app/share/dVVaBCZocjgE2dnk/klsyinghua.github.io"
           weight: 5
 taxonomies:
   series: series
