@@ -1,10 +1,10 @@
-baseURL: 'https://salufan.github.io'
+baseURL: 'https://klsyinghua.github.io'
 title: LADDER
 theme: hugo-theme-ladder
 license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
-homepage: 'https://salufan.github.io'
+homepage: 'https://klsyinghua.github.io'
 defaultContentLanguage: 'en'
 googleAnalytics: G-B8QT7TVK45
 paginate: 10
