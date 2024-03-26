@@ -24,13 +24,13 @@ params:
   comments:
     giscus:
       enable: true
-      repo: username/repo
-      repo_id: xxx
+      repo: salufan/salufan.github.io
+      repo_id: R_kgDOLlg_mA
       category: Announcements
-      category_id: xxx
+      category_id: DIC_kwDOLlg_mM4CeOvO
       mapping: pathname
-      position: top
-      lang: en # pick a language from https://github.com/giscus/giscus/tree/main/locales
+      position: bottom
+      lang: zh-CN # pick a language from https://github.com/giscus/giscus/tree/main/locales
     utteranc:
       enable: false
       repo: username/xxx
